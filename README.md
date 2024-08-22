@@ -2,9 +2,7 @@
 Sou apaixonado por tecnologias, educação e mudar vidas de pessoas!
 
 
-[![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://kaiogremaschi.cf)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDC5ud6OkknTRbVHKgg6-cw)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaiogsdesigner__?igshid=YmMyMTA2M2Y=)
+
 
 ![KaioYt GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioYt&show_icons=true&theme=dracula)
 
