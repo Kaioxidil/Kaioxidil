@@ -1,27 +1,29 @@
 # Olá, eu sou o Kaio Gremaschi! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web+em+Formação;Apaixonado+por+Tecnologia+e+Educação;Criando+impacto+positivo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Desenvolvedor+PHP+(Laravel+%26+CodeIgniter);Focado+em+An%C3%A1lise+de+Dados;Dominando+Python+%26+Excel+Avan%C3%A7ado;Aprendendo+e+focando+em+Node.js" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 Um pouco sobre mim
-* 🎓 Focado em aprender **Desenvolvimento Web**.
-* 💡 Explorando como a tecnologia pode transformar a forma como aprendemos e ensinamos.
-* 🛠 Atualmente construindo meu portfólio pessoal e explorando novas formas de criar apps úteis e envolventes.
+* 💻 Programo focando principalmente em **PHP**, construindo aplicações robustas com **Laravel** e **CodeIgniter 4**.
+* 📊 Direcionando meus estudos e carreira para **Análise de Dados**, utilizando as melhores ferramentas do mercado: **Excel Avançado** e **Python**.
+* 🌱 Atualmente, estou expandindo meus horizontes no backend, aprendendo e buscando me especializar em **Node.js**.
+* 🛠 Construindo meu portfólio pessoal e unindo o mundo do desenvolvimento web com a inteligência dos dados.
 
-### 🚀 Tecnologias e Estudos
-Aqui estão as linguagens e ferramentas que uso no dia a dia e as que estou aprendendo no momento. *(Ícones dinâmicos)*
+### 🚀 Tecnologias e Ferramentas
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,md,java,python,cs&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,js,mysql,md,html,css&theme=dark&perline=9" />
   </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="CodeIgniter">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Avançado">
 </div>
 
 ### 📊 Minhas Estatísticas no GitHub
-Gráficos combinando com o mesmo tema para deixar o design limpo e moderno!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaioYt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -36,7 +38,7 @@ Gráficos combinando com o mesmo tema para deixar o design limpo e moderno!
 
 <div align="center">
   <h3>📈 Visitantes do Perfil</h3>
-  <img src="https://profile-counter.glitch.me/KaioYt/count.svg" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=KaioYt&color=blue&style=flat-square&label=VISUALIZAÇÕES" alt="Visitor Count" />
   <br>
   <p>Obrigado pela visita! 🚀</p>
 </div>
